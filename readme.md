@@ -1,7 +1,7 @@
 ### solos
 
 Skills:
-- golang/gin  typescript/angular
+- vibe coding
 
  
 #### My Products
