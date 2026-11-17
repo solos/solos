@@ -1,7 +1,7 @@
 ### solos
 
 Skills:
-- vibe coding
+- ~~golang,angular,swift~~ vibe coding
 
  
 #### My Products
